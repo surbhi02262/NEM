@@ -2,3 +2,7 @@ express --no-view appname
 npm install
 npm start
 nodemon start
+https://stackoverflow.com/questions/13133071/express-next-function-what-is-it-really-for
+https://expressjs.com/en/guide/routing.html
+https://expressjs.com/en/guide/writing-middleware.html
+https://expressjs.com/en/guide/using-middleware.html
